@@ -2,12 +2,8 @@ imports:
     - { resource: parameters.yml }
     - { resource: security.yml }
     - { resource: services.yml }
-<<<<<<< HEAD
     - { resource: "@HelloBundle/Resources/config/services.yml" }
     - { resource: "@EpopeeBundle/Resources/config/services.yml" }
-=======
-    - { resource: "@WypozyczalniaBundle/Resources/config/services.yml" }
->>>>>>> ff67e98e1ace2a4f754b371a19ce3f80e4fd8891
 
 # Put parameters here that don't need to change on each machine where the app is deployed
 # http://symfony.com/doc/current/best_practices/configuration.html#application-related-configuration
@@ -45,7 +41,7 @@ twig:
 # Doctrine Configuration
 doctrine:
     dbal:
-        driver:   pdo_pgsql
+        driver:   pdo_mysql
         host:     "%database_host%"
         port:     "%database_port%"
         dbname:   "%database_name%"
