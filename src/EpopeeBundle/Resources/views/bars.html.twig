@@ -1,0 +1,36 @@
+{% extends "EpopeeBundle::layout.html.twig" %}
+
+{% set roman = {1:'I', 2:'II', 3:'III', 4:'IV', 5:'V', 6:'VI', 7:'VII', 8:'VIII', 9:'IX', 10:'X', 11:'XI', 12:'XII'} %}
+
+{% block menu %}
+	<ul class="nav nav-tabs">
+{# 		{% if book is not defined %}
+			<li role='presentation' class='active'><a href="{{path('epopee_homepage')}}"><span class="glyphicon glyphicon-home"></span></a></li>
+		{% else %}
+			<li role='presentation'><a href="{{path('epopee_homepage')}}"><span class="glyphicon glyphicon-home"></span></a></li>
+		{% endif %} #}
+		{% for i in 1..12 %}
+			{% if book is defined and book == i %}
+				<li role='presentation' class='active'><a href="{{path('epopee_book', {'book': i})}}">Księga {{roman[i]}}</a></li>
+			{% else %}
+				<li role='presentation'><a href="{{path('epopee_book', {'book': i})}}">Księga {{roman[i]}}</a></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+{% endblock %}
+
+{% block sidebar %}
+	<a href="{{path('epopee_homepage')}}" type = "button" class= "btn btn-primary btn-lg btn-block">
+	<span class="glyphicon glyphicon-home"></span> Strona główna </a>
+	
+		<a href="{{path('epopee_homepage')}}" type = "button" class= "btn btn-success btn-lg btn-block">
+	<span class="glyphicon glyphicon-list"></span> Lista refleksji </a>
+	
+		<a href="{{path('epopee_homepage')}}" type = "button" class= "btn btn-warning btn-lg btn-block">
+	<span class="glyphicon glyphicon-pencil"></span> Dodaj refleksje </a>
+	
+{% endblock %}
+
+{% block content %}
+	<p>tu jest treść strony z barsów</p>
+{% endblock %}

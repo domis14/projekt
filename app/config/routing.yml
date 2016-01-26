@@ -1,0 +1,11 @@
+epopee:
+    resource: "@EpopeeBundle/Resources/config/routing.yml"
+    prefix:   /pt
+
+hello:
+    resource: "@HelloBundle/Resources/config/routing.yml"
+    prefix:   /hw
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

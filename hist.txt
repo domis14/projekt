@@ -1,0 +1,886 @@
+    1  ls -l
+    2  cd public_html
+    3  ls
+    4  cd web
+    5  pwd
+    6  pico s1.htm
+    7  exit
+    8  ls
+    9  cd public_html
+   10  cd web
+   11  ls
+   12  pico s1
+   13  pico s2.htm 
+   14  pico s1.htm
+   15  dir
+   16  pwd
+   17  ls
+   18  cd web
+   19  ls
+   20  pico zadanie2.htm
+   21  mc zadanie2.htm
+   22  10
+   23  0101
+   24  ls
+   25  cd public_html
+   26  ls
+   27  cd web
+   28  ls
+   29  cd ..
+   30  ls
+   31  cd ..
+   32  ls
+   33  cat baza.txt
+   34  xz1yc9sb6R8m
+   35  pico db
+   36  ls
+   37  cd public_html
+   38  cd
+   39  cd public_html
+   40  cd web
+   41  cd
+   42  cd /web
+   43  pico db
+   44  logout
+   45  psql -h sbazy
+   46  psql -U s179647 sbazy
+   47  psql -U s179647 -h sbazy
+   48  psql -h sbazy
+   49  whoami
+   50  exit
+   51  ls
+   52  cd public_html/
+   53  ls
+   54  cd PP4/
+   55  LS
+   56  ls
+   57  xz1yc9sb6R8m
+   58  dir
+   59  ls
+   60  cd public_html
+   61  ls
+   62  postgres
+   63  postgresql
+   64  psql -h sbazy
+   65  xz1yc9sb6R8m
+   66  ls
+   67  cd web
+   68  ls
+   69  dir
+   70  pico bazy.txt
+   71  cd ..
+   72  ls
+   73  pico baza.txt
+   74  psql -h sbazy
+   75  ls
+   76  cd public_html/
+   77  pico card.html
+   78  ls
+   79  cd web
+   80  ls
+   81  mkdir images
+   82  ls
+   83  quota -u s179647
+   84  logout
+   85  exit
+   86  qota
+   87  quota
+   88  ls
+   89  cd public_html/
+   90  ls
+   91  cd PP4
+   92  ls
+   93  ls .
+   94  ls ..
+   95  cd
+   96  ls
+   97  pico baza.txt
+   98  pico wu.txt
+   99  cd public_html
+  100  ls
+  101  cd web
+  102  ls
+  103  mkdir test.php
+  104  ls
+  105  rm test.php
+  106  rmdir test.php
+  107  ls
+  108  touch test.php
+  109  ls
+  110  pico test.php
+  111  psql -h sbazy
+  112  ks
+  113  ls
+  114  pico card.html
+  115  ls
+  116  mkdir images
+  117  ls
+  118  cd images
+  119  ls
+  120  cd public_html
+  121  ls
+  122  dir
+  123  path
+  124  ls
+  125  cd web
+  126  ls
+  127  cd sh
+  128  cd show/
+  129  ls
+  130  pico show.php
+  131  ls
+  132  git config --global user.name "Dominik_Adamski"
+  133  git config --global user.email "dominik.adamski@interia.pl"
+  134  git status
+  135  cd web
+  136  cd public_html
+  137  cd web/
+  138  cs card.html 
+  139  git init
+  140  git init card.html
+  141  ls
+  142  git init card.html
+  143  ls
+  144  mkdir card
+  145  ls
+  146  cd card
+  147  ls
+  148  move card.html to card
+  149  mv card.html /card
+  150  mv card.html card
+  151  mv card.html /public_html/web/card
+  152  mv card.html ~/public_html/web/card
+  153  ls
+  154  git init
+  155  ls
+  156  git add
+  157  ls
+  158  git add
+  159  git commit
+  160  ls
+  161  git init card.html
+  162  git init
+  163  ls
+  164  git add
+  165  git commit
+  166  git add
+  167  ls
+  168  ls -alt
+  169  chmod 755 public_html
+  170  ls
+  171  ls -alt
+  172  cd public_html
+  173  ls
+  174  ls -alt
+  175  chmod 777 web/
+  176  cd web
+  177  ls
+  178  nano index.php
+  179  ls
+  180  ls -alt
+  181  cd ..
+  182  ls
+  183  ls -alt
+  184  cd public_html_old/
+  185  ls
+  186  cd web
+  187  ls
+  188  cd ..
+  189  ls
+  190  mv public_html public_html2
+  191  ls
+  192  mv public_html_old public_html
+  193  ls
+  194  cd public_html
+  195  ls
+  196  ls -alt
+  197  chmod 777 web
+  198  cd web
+  199  ls
+  200  nano index.php
+  201  ls
+  202  nano index.php
+  203  ls -alt
+  204  nano index.html
+  205  ls -alt
+  206  exit
+  207  cd wev
+  208  ls
+  209  cd public_html
+  210  cd web
+  211  ls
+  212  cd card
+  213  ls
+  214  git add 
+  215  git add .
+  216  git commit
+  217  git add
+  218  ls
+  219  cd ..
+  220  ls
+  221  rm index.php
+  222  ls
+  223  cd .
+  224  cd ..
+  225  grep
+  226  ls
+  227  cd ..
+  228  ls
+  229  cd public_html
+  230  ls
+  231  cd ..
+  232  ls
+  233  cd public_html
+  234  ls
+  235  grep index
+  236  ls
+  237  cd web
+  238  ls
+  239  rm index.php
+  240  ls
+  241  cd public_html
+  242  ls
+  243  cd web
+  244  cd show
+  245  ls
+  246  pico show.php
+  247  cd ..
+  248  ls
+  249  pico card.html
+  250  cd web
+  251  ls
+  252  pico index.html 
+  253  ls
+  254  cd
+  255  ls
+  256  cd public_html
+  257  cd web
+  258  ls
+  259  pico test.php
+  260  quota -u s179647
+  261  psql -h sbazy
+  262  ls
+  263  pico card.html
+  264  ls
+  265  rm card
+  266  ls
+  267  rmdir card
+  268  ls
+  269  cd card
+  270  ls
+  271  la
+  272  ls
+  273  pico card.html 
+  274  ls
+  275  cd ..
+  276  ls
+  277  cd images
+  278  ls
+  279  cd ..
+  280  ls
+  281  cd web
+  282  ls
+  283  cd card
+  284  ls
+  285  git add
+  286  git add.
+  287  git add
+  288  ls
+  289  pico card.html
+  290  ls
+  291  git init
+  292  git add .
+  293  git commit
+  294  git init
+  295  git add
+  296  git add .
+  297  git commit
+  298  ls
+  299  pico card.html
+  300  git add .
+  301  cd public_html
+  302  cd web
+  303  cd card
+  304  ls
+  305  git add .
+  306  git commit
+  307  git init
+  308  git add .
+  309  git commit
+  310  git add .
+  311  git commit
+  312  git init
+  313  git add .
+  314  git commit
+  315  <ul>
+  316  <li>Motocykle </li>
+  317  <li>Wedkarstwo</li>
+  318  </ul>
+  319  </div>
+  320  git add .
+  321  git commit
+  322  ls
+  323  cd public_html
+  324  ls
+  325  cd web
+  326  ls
+  327  cd card
+  328  ls
+  329  git add .
+  330  git commit
+  331  git add .
+  332  git commit
+  333  git add .
+  334  git commit
+  335  git add .
+  336  git commit
+  337  git add .
+  338  git commit
+  339  git revert
+  340  git log 
+  341  git revert c03741a4d85303b9b3b978b35a3c7cdb6efecace
+  342  git log 
+  343  git revert c03741a4d85303b9b3b978b35a3c7cdb6efecace
+  344  git revert
+  345  log
+  346  git log
+  347  git revert c03741a4d85303b9b3b978b35a3c7cdb6efecace
+  348  git merge
+  349  git branch
+  350  git branch master
+  351  git checkout
+  352  git add .
+  353  git commit
+  354  git log
+  355  git add .
+  356  git commit
+  357  git revert  <div id="interests">
+  358  <ul>
+  359  <li>Motocykle </li>
+  360  <li>Wedkarstwo</li>
+  361  </ul>
+  362  </div>
+  363  git revert c03741a4d85303b9b3b978b35a3c7cdb6efecace
+  364  git add .
+  365  git commit
+  366  git revert
+  367  git revert c03741a4d85303b9b3b978b35a3c7cdb6efecace
+  368  git checkout
+  369  merge .
+  370  git merge
+  371  git branch
+  372  git merge
+  373  cd public_html
+  374  cd web
+  375  cd card
+  376  ls
+  377  git init
+  378  git add .
+  379  git commit
+  380  git add .
+  381  git commit
+  382  git add .
+  383  git commit
+  384  git add .
+  385  git commit
+  386  git add .
+  387  git commit
+  388  git add .
+  389  git commit
+  390  git git -log
+  391  git -log
+  392  git log
+  393  git revert <li><a id="social-google" href="https://plus.google.com/u/0/116760407957828373742/posts">Google</a></li>
+  394  git revert ab342221ba1fcd2f34d596cda09b5e8e68d25cff
+  395  git add .
+  396  git commit 
+  397  git add
+  398  git add .
+  399  git commit
+  400  git commit --amend
+  401  git checkout
+  402  ls
+  403  cd pu
+  404  cd public_html
+  405  ls
+  406  cd web
+  407  ls
+  408  rm card.html save
+  409  cd card
+  410  ls
+  411  pico card.html
+  412  git log
+  413  git revert ab342221
+  414  ls
+  415  git clone https://github.com/domis14/hellogit1516
+  416  commit https://github.com/domis14/hellogit1516
+  417  git add .
+  418  git commit https://github.com/domis14/hellogit1516
+  419  git log
+  420  git -log
+  421  git log
+  422  cd public_html
+  423  cd web
+  424  cd card
+  425  ls
+  426  git log
+  427  ls
+  428  cd hellogit1516
+  429  ls
+  430  commit e52162a
+  431  cd ..
+  432  git commit e52162a
+  433  git add e52162a
+  434  ks
+  435  ls
+  436  cd hellogit1516/
+  437  git add e52162a
+  438  git commit e52162a
+  439  cd ,,
+  440  cd ..
+  441  git add e52162adaeb46c266968873364d660015accb5d7
+  442  git commit e52162adaeb46c266968873364d660015accb5d7
+  443  clone https://github.com/Fiona84/website
+  444  git clone https://github.com/Fiona84/website
+  445  ks
+  446  ls
+  447  cd website
+  448  ls
+  449  git commit https://github.com/domis14/hellogit1516
+  450  git clone https://github.com/domis14/hellogit1516
+  451  git reset --hard
+  452  git log
+  453  ls ..
+  454  cd ..
+  455  git log
+  456  dir
+  457  ls
+  458  cd public_html
+  459  ls
+  460  cd web
+  461  ls
+  462  cd card
+  463  ls
+  464  git log
+  465  git status
+  466  git checkout
+  467  git checkout master
+  468  git remote
+  469  cd ..
+  470  git remote
+  471  cd card
+  472  ls
+  473  cd public_html
+  474  ls
+  475  cd web
+  476  ls
+  477  git status
+  478  cd card
+  479  git status
+  480  ls
+  481  git add.
+  482  git add .
+  483  ls
+  484  git status
+  485  git reset HEAD website
+  486  git status
+  487  git ignore
+  488  git commit
+  489  git status
+  490  ls
+  491  git remote
+  492  cd
+  493  ls
+  494  cd public_html
+  495  ls
+  496  cd web
+  497  ls
+  498  cd card
+  499  ls
+  500  cd hellogit1516/
+  501  git remote
+  502  git remote -v
+  503  git remote show orgin
+  504  git remote show
+  505  ls
+  506  cd ..
+  507  mkdir PanTadeusz
+  508  ls
+  509  cd PanTadeusz/
+  510  ls
+  511  git init
+  512  git add .
+  513  git commit
+  514  git status
+  515  git add .
+  516  git commit
+  517  git status
+  518  git add .
+  519  git commit
+  520  git add .
+  521  git commit
+  522  git add .
+  523  git commit
+  524  git add .
+  525  git commit
+  526  git add .
+  527  git commit
+  528  git add .
+  529  git commit
+  530  git add .
+  531  git commit
+  532  git add .
+  533  git commit
+  534  git add .
+  535  git commit
+  536  git add .
+  537  git commit
+  538  git log
+  539  git revert 6adc5883800ac502132a9e94eb25d7ffd4c130e3
+  540  git log
+  541  git status
+  542  git add .
+  543  git commit
+  544  git log
+  545  git revert 6adc5883800ac502132a9e94eb25d7ffd4c130e3
+  546  git status
+  547  git revert aa80323d27312109158fe5f3ea8f65906323675c
+  548  git add .
+  549  git commit
+  550  git status
+  551  git revert 0de827e8ab3b9092aae37e901bd92f820b62ed88
+  552  git status
+  553  git add .
+  554  git commit
+  555  ls
+  556  git name
+  557  git --help
+  558  git status
+  559  git push https://github.com/domis14/PanTadeusz.git
+  560  git push https://github.com/domis14/PanTadeusz.git master
+  561  branches
+  562  git branch Index
+  563  git status
+  564  git checkout Index
+  565  pico index.html
+  566  ls
+  567  pico index.html
+  568  git status
+  569  git add .
+  570  git commit
+  571  git status
+  572  git push https://github.com/domis14/PanTadeusz Index
+  573  git checkout master
+  574  git status
+  575  git branch RecoverBooks
+  576  git checkout RecoverBooks
+  577  git status
+  578  git log
+  579  git revert 74a6dfb28450bc090196d01261ca369406959ede
+  580  git log
+  581  git revert 347283f77db27b86abfd1388070429517407f8a9
+  582  git log
+  583  git revert 25265a7de870cadfd46fa03cef14db0676303f8c
+  584  git status
+  585  git checkout master
+  586  git status
+  587  git merge Index 
+  588  git merge RecoverBooks 
+  589  git status
+  590  git push https://github.com/domis14/PanTadeusz master
+  591  ls
+  592  cd ..
+  593  ls
+  594  cd card/
+  595  ls
+  596  git status
+  597  reset HEAD hellohit1516
+  598  git status
+  599  pico card.html
+  600  git add .
+  601  git commit
+  602  git status
+  603  git reset HEAD hellohit1516
+  604  git reset HEAD website
+  605  git status
+  606  git reset HEAD website
+  607  git reset HEAD hellohit1516
+  608  git status
+  609  git commit
+  610  git status
+  611  ls
+  612  pico card.html
+  613  git add .
+  614  git commit
+  615  git status
+  616  git HEAD website
+  617  git status
+  618  git HEAD website
+  619  git reset HEAD website
+  620  git status
+  621  git commit
+  622  git log
+  623  git checkout 3cf2c83ed8b929313d9e87dd2e0e3cf5817ff4e3
+  624  cd 
+  625  ls
+  626  cd public_html
+  627  cd P
+  628  ls
+  629  cd web
+  630  cd PanTadeusz/
+  631  ls
+  632  gi log
+  633  git log
+  634  git revert 719fee972681dd30f2c49e42cfef2fa35ba9c824
+  635  git commit 59214e2f97dfeaab3960ea5d518a7f17c0f1e22a
+  636  git clean
+  637  git celan -f
+  638  git clean -f
+  639  git status
+  640  git clear
+  641  git clean
+  642  git clean -f
+  643  git log
+  644  git status
+  645  git add .
+  646  git commit
+  647  git add .
+  648  git commit
+  649  git push https://github.com/domis14/PanTadeusz master
+  650  ls
+  651  cd public_html
+  652  ls
+  653  cd web
+  654  ls
+  655  cd website
+  656  ls
+  657  clone https://github.com/Fiona84/website
+  658  git clone https://github.com/Fiona84/website
+  659  ls
+  660  cd website
+  661  ls
+  662  cd
+  663  ls
+  664  cd public_html
+  665  ls
+  666  cd web
+  667  ls
+  668  cd card
+  669  ls
+  670  cd ..
+  671  ls
+  672  git clone https://github.com/Fiona84/website
+  673  ls
+  674  cd website
+  675  bootstrap
+  676  git
+  677  bootstrap
+  678  ls
+  679  cd public_html
+  680  ls
+  681  cd web
+  682  ls
+  683  chmod PanTadeusz
+  684  chmod u+r website
+  685  cd websie
+  686  cd wbsite
+  687  cd website/
+  688  ls
+  689  git add .
+  690  git commit
+  691  git add .
+  692  git commit
+  693  git add .
+  694  git commit --amend
+  695  git add .
+  696  git status
+  697  git log
+  698  git add .
+  699  git commit
+  700  git add .
+  701  git commit
+  702  git log
+  703  cd public_html
+  704  ls
+  705  cd web
+  706  ls
+  707  cd website
+  708  ls
+  709  git add .
+  710  git commit
+  711  git log
+  712  git add .
+  713  git commit
+  714  git commit
+  715  git add .
+  716  git commit
+  717  git add .
+  718  git commit
+  719  ls
+  720  cd public_html
+  721  ls
+  722  cd web
+  723  ls
+  724  cd PanTadeuszB
+  725  ls
+  726  git status
+  727  git log
+  728  git status
+  729  git reset HEAD index.html
+  730  git status
+  731  git reset HEAD index.html
+  732  git status
+  733  cd ..
+  734  ls
+  735  git clone https://github.com/Fiona84/PanTadeuszStrukturalny.git
+  736  psql -h bazy
+  737  psql -h sbazy
+  738  psql -u -h sbazy
+  739  psql -h sbazy
+  740  ls
+  741  cd public_html
+  742  ls
+  743  cd web
+  744  ls
+  745  cd PanTadeuszStrukturalny/
+  746  ls
+  747  cp /home/pracownicy/wojcikk/public_html/web/PanTadeuszStrukturalny/index.php
+  748  ls
+  749  cd public_html
+  750  ls
+  751  cd web
+  752  ls
+  753  mkdir php
+  754  cd php
+  755  ls
+  756  nano Zwierz.php
+  757  php hodowla.php
+  758  nano Zwierz.php
+  759  php Zwierz.php
+  760  ls
+  761  cd public_html
+  762  ls
+  763  cd web
+  764  ls
+  765  cd php
+  766  ls
+  767  hodowla.php
+  768  php hodowla.php
+  769  php Zwierz.php
+  770  php hodowla.php
+  771  php Zwierz.php
+  772  php hodowla.php
+  773  php Zwierz.php
+  774  php hodowla.php
+  775  php Zwierz.php
+  776  php hodowla.php
+  777  php Zwierz.php
+  778  php hodowla.php
+  779  php Hodowla.php
+  780  ls
+  781  cd public_html
+  782  ls
+  783  cd web
+  784  ls
+  785  cd php
+  786  ls
+  787  php Zabojca.php
+  788  php Drapieznik.php
+  789  php Hodowla.php
+  790  ls
+  791  cd ..
+  792  ls
+  793  cd PanTadeuszB
+  794  git log
+  795  ls
+  796  cd public_html
+  797  ls
+  798  cd web
+  799  ls
+  800  cd PanTadeuszStrukturalny
+  801  ls
+  802  cd ..
+  803  git clone https://github.com/Fiona84/PanTadeuszStrukturalny/tree/postgres PanTadeuszStrukturalny2
+  804  ls
+  805  cd public_html
+  806  ls
+  807  cd web
+  808  cd php
+  809  ls
+  810  php Hodowla.php
+  811  ls
+  812  cd public_html
+  813  ls
+  814  cd web
+  815  cd PanTadeuszStrukturalny-postgres
+  816  ls
+  817  php Reflection.php 
+  818  ls
+  819  psql -h sbazy
+  820  select * reflections
+  821  /d
+  822  SELECT * FROM reflections
+  823  psql -h sbazy
+  824  ls /home/pracownicy/wojcikk/public_html/web/PanTadeuszObiektowy
+  825  pico /home/pracownicy/wojcikk/public_html/web/PanTadeuszObiektowy
+  826  ls
+  827  php Reflections.php
+  828  lw
+  829  ls
+  830  php test.php
+  831  psql -h sbazy
+  832  psql -h sbazysl
+  833  psql -h sbazy
+  834  php test.php
+  835  ls
+  836  cd public_html
+  837  ls
+  838  cd web
+  839  ls
+  840  cd PanTadeuszTadeuszStrukturalny-postgres
+  841  cd PanTadeuszStrukturalny-postgres
+  842  la
+  843  cd ..
+  844  ls
+  845  cd php
+  846  ls
+  847  php Drapieznik.php
+  848  php Zabojca.php
+  849  php Zwierz.php
+  850  php Hodowla.php 
+  851  ls
+  852  cd public_html
+  853  ls
+  854  cd ..
+  855  symfony new public_html 2.8
+  856  cd public_html
+  857  ls
+  858  chmod 777 -R app/cache
+  859  chmod 777 -R app/logs
+  860  php app/console
+  861  php app/console generate:bundle
+  862  ls
+  863  cd public_html
+  864  ls
+  865  ;s
+  866  ls
+  867  php app/console generatebundle
+  868  php app/console generate:bundle
+  869  cd public_html
+  870  ls
+  871  cd web
+  872  ls
+  873  ls -l
+  874  man ls
+  875  ls
+  876  cd public_html
+  877  ls
+  878  cd PROJEKT/
+  879  ls
+  880  cd ..
+  881  install composer
+  882  chmod 777 -R app/logs
+  883  chmod 777 -R app/cache
+  884  ls -l
+  885  history 
+  886  history >> hist.txt

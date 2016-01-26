@@ -1,0 +1,5 @@
+hello_homepage:
+    path:     /{name},{surname}
+    defaults: 
+        _controller: HelloBundle:Default:index
+        surname: ''
